@@ -1,11 +1,21 @@
 ---
 home: true
-faceImage: '/head.png'
+faceImage: "/head.png"
 # heroImage: /public/head.png
-heroImageStyle: { maxWidth: '70px', width: '100%', display: block, margin: '9rem auto 2rem', background: '#fff', borderRadius: '1rem' }
+heroImage: "/background.png"
+bgImageStyle: { height: "350px" }
+heroImageStyle:
+  {
+    maxWidth: "70px",
+    width: "100%",
+    display: block,
+    margin: "9rem auto 2rem",
+    background: "#fff",
+    borderRadius: "1rem",
+  }
 isShowTitleInHome: false
-actionText: Guide
-actionLink: /views/other/guide
+# actionText: Guide
+# actionLink: /views/other/guide
 features:
   - title: Yesterday
     details: 开发一款看着开心、写着顺手的 vuepress 博客主题

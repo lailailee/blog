@@ -9,6 +9,8 @@
   "devDependencies": {
     "cz-conventional-changelog": "^3.0.2",
     "vuepress": "1.2.0",
+    "vuepress-plugin-go-top": "0.0.1",
+    "vuepress-plugin-ribbon": "0.0.7",
     "vuepress-theme-reco": "1.1.1"
   },
   "description": "run and run ",
@@ -16,5 +18,8 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
+  },
+  "dependencies": {
+    "vuepress-plugin-live2d": "0.0.7"
   }
 }

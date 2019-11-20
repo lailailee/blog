@@ -40,11 +40,30 @@ module.exports = {
         link: "/",
         icon: "reco-home"
       },
+      // {
+      //   text: "Experiments",
+      //   icon: "reco-api",
+      //   items: [
+      //     {
+      //       text: "🎓 Course Crawler",
+      //       link: "https://www.sigure.xyz/course-crawler/"
+      //     },
+      //     {
+      //       text: "👣 Shoeprint Recognition",
+      //       link: "https://www.sigure.xyz/shoeprint-recognition/"
+      //     },
+      //     {
+      //       text: "🎨 vuepress reco",
+      //       link: "https://vuepress-theme-reco.recoluan.com/"
+      //     }
+      //   ]
+      // },
       {
         text: "TimeLine",
         link: "/timeLine/",
         icon: "reco-date"
       },
+
       {
         text: "Contact",
         icon: "reco-message",

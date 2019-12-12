@@ -103,7 +103,7 @@ module.exports = {
     record: "",
     startYear: "2019",
     sidebar: {
-      "/views/LeetCode刷题/": [
+      "/views/LeetCode/": [
         {
           title: "字符串类",
           collapsable: false,
@@ -153,8 +153,34 @@ module.exports = {
             "webpack进阶/05.Entry与Output的基本配置"
           ]
         }
+      ],
+      "/views/": [
+        {
+          title: "MongoDB",
+          collapsable: false,
+          children: [
+            "MongoDB/01.使用docker安装mongodb",
+            "MongoDB/02.mongodb增删改查",
+            "MongoDB/03.robo3t连接mongodb",
+            "MongoDB/04.mongodb备份和恢复",
+            "MongoDB/05.mongoose简易使用",
+            "MongoDB/06.mongoose实战配置",
+          ]
+        },
+        {
+          title: "Redis",
+          collapsable: false,
+          children: [
+            "Redis/01.Redis介绍",
+            "Redis/02.使用docker安装Redis",
+            "Redis/03.Redis Cli - 取值",
+            "Redis/04.Redis GUI工具",
+            "Redis/05.Redis Node.js集成",
+          ]
+        }
       ]
-    }
+    },
+
   },
   markdown: {
     lineNumbers: true

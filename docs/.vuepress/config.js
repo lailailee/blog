@@ -178,6 +178,16 @@ module.exports = {
             "Redis/05.Redis Node.js集成",
           ]
         }
+      ],
+      "/views/": [
+        {
+          title: "Axios",
+          collapsable: false,
+          children: [
+            "Axios/01.axios使用拦截器拦截重复请求",
+          ]
+        },
+
       ]
     },
 

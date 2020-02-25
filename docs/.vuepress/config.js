@@ -191,6 +191,11 @@ module.exports = {
           title: '面试知识点',
           collapsable: false,
           children: ['01.2020开始']
+        },
+        {
+          title: 'JS基础知识',
+          collapsable: false,
+          children: ['JS基础知识/01.变量类型和计算']
         }
       ]
     }

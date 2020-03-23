@@ -4,7 +4,8 @@
   "author": "reco_luan",
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "push": "sh deploy.sh"
   },
   "devDependencies": {
     "cz-conventional-changelog": "^3.0.2",

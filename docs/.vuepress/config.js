@@ -63,7 +63,6 @@ module.exports = {
         link: '/timeLine/',
         icon: 'reco-date'
       },
-
       {
         text: 'Contact',
         icon: 'reco-message',
@@ -195,7 +194,10 @@ module.exports = {
         {
           title: 'JS基础知识',
           collapsable: false,
-          children: ['JS基础知识/01.变量类型和计算']
+          children: [
+            'JS基础知识/01.变量类型和计算',
+            'JS基础知识/02.原型和原型链'
+          ]
         }
       ]
     }

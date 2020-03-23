@@ -7190,7 +7190,17 @@ vuepress-plugin-container@^2.0.2:
   dependencies:
     markdown-it-container "^2.0.0"
 
-vuepress-plugin-ribbon@^0.0.7:
+vuepress-plugin-go-top@0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/vuepress-plugin-go-top/-/vuepress-plugin-go-top-0.0.1.tgz#c2c45557b2c0b4dc602459b962e55a3ccfa67a5b"
+  integrity sha512-v0nU+3Bw/dfC/kdMVHjMfCJM9EouidYaqM6vNJhNiSt8V2gK/XzHgX2imP1C1jlB6t5wrWg8tJ8ghRvnYe3PpA==
+
+vuepress-plugin-live2d@0.0.7:
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/vuepress-plugin-live2d/-/vuepress-plugin-live2d-0.0.7.tgz#e09d415c018c3fad871c03151d6e5124e7c56946"
+  integrity sha512-uifUeJIyapP3ht73OQWjvi9WdkYWIZxcGazmomhrxgGPo2aB5Aqr8ZQATy1yVtVpBZOzlsBkm3TSOP06bGyjrA==
+
+vuepress-plugin-ribbon@0.0.7:
   version "0.0.7"
   resolved "https://registry.yarnpkg.com/vuepress-plugin-ribbon/-/vuepress-plugin-ribbon-0.0.7.tgz#30d5f0f1723c1c65930ac1cab7563081f3cc4e66"
   integrity sha512-rhFWNmCgp8UfIdF4DjwxdGozFTu3idRx/v9/sqlBneuFRWObCVWbZDmf8POKfEXu3jY1ybE2vjDlzU6F70iT4w==

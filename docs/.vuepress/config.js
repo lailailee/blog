@@ -196,7 +196,8 @@ module.exports = {
           collapsable: false,
           children: [
             'JS基础知识/01.变量类型和计算',
-            'JS基础知识/02.原型和原型链'
+            'JS基础知识/02.原型和原型链',
+            'JS基础知识/03.作用域和闭包'
           ]
         }
       ]

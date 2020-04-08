@@ -200,6 +200,11 @@ module.exports = {
             'JS基础知识/03.作用域和闭包',
             'JS基础知识/04.异步'
           ]
+        },
+        {
+          title: 'JS-Web-API',
+          collapsable: false,
+          children: ['JS-Web-API/05.JS-Web-API-DOM.md']
         }
       ]
     }
